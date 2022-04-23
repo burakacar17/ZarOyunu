@@ -9,14 +9,7 @@ namespace ZarOyunu
             ZarAt zarAt = new ZarAt(6);
 
             Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
-            Console.WriteLine(zarAt.go());
+          
         }
     }
 }
